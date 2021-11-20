@@ -5,10 +5,8 @@
 <div align="center">
     <img height="180em" width="49.6%" src="https://github-readme-stats.vercel.app/api?username=MelissaTeodoro&show_icons=true&theme=radical">
     <img height="180em" width="49.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaTeodoro&exclude_repo=app3-angular,app2-angular,app1-angular,book-store-frontend,spring-pet-clinic,site-foods&layout=compact&theme=radical">
-</div><br/>
-
+</div>
 ### Tecnologias do meu dia a dia
-
 <div> 
     <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
