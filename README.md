@@ -2,7 +2,7 @@
 <div>
     <a href="https://www.linkedin.com/in/melissa-teodoro-soares-cordeiro-677111148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br/>
-<div>
+<div align="center">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MelissaTeodoro&show_icons=true&theme=radical">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaTeodoro&exclude_repo=app3-angular,app2-angular,app1-angular,book-store-frontend,spring-pet-clinic,site-foods&layout=compact&theme=radical">
 </div><br/>
