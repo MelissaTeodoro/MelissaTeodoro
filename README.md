@@ -3,8 +3,8 @@
     <a href="https://www.linkedin.com/in/melissa-teodoro-soares-cordeiro-677111148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br/>
 <div align="center">
-    <img height="180em" width="49.6%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MelissaTeodoro&show_icons=true&theme=radical">
-    <img height="180em" width="49.6%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MelissaTeodoro&exclude_repo=app3-angular,app2-angular,app1-angular,book-store-frontend,spring-pet-clinic,site-foods&layout=compact&theme=radical">
+    <img height="350em" width="49.6%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MelissaTeodoro&show_icons=true&theme=radical">
+    <img height="350em" width="49.6%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MelissaTeodoro&exclude_repo=app3-angular,app2-angular,app1-angular,book-store-frontend,spring-pet-clinic,site-foods&layout=compact&theme=radical">
 </div>
 
 ### Tecnologias do meu dia a dia
